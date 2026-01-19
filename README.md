@@ -68,12 +68,6 @@ I’m not a “pure software coder” — I’m a **hardware/UAV builder** who c
 
 ---
 
-## 📊 GitHub Stats
-*(Stats are optional but recruiters like activity proof)*
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prateek-elec&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-elec&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🧠 My Engineering Style
