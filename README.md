@@ -1,74 +1,70 @@
-# Hi, I'm Prateek Sarkar 👋  
-### UAV Systems • Embedded Electronics • PCB Design • Robotics
-
-🚀 **Open to Internship / Project Opportunities (UAV • Embedded • PCB Design)**  
-I build real-world engineering projects focused on **drones, robotics, custom PCBs, and embedded systems** — from schematic to working hardware.
+# Hi — I’m Prateek Sarkar 👋  
+**Electronics & Communication undergrad — Embedded Systems • UAVs • PCB Design • Robotics**  
+Gwalior • Open to Internship / Project Roles (UAV • Embedded • PCB)
 
 ---
 
-## 🏷️ Tech Stack & Tools
-
-### ✅ Embedded / Firmware
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-
-### ✅ PCB / Hardware Design
-![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-000000?style=for-the-badge&logo=autodesk&logoColor=white)
-
-### ✅ Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🔭 What I build
+I design and build **complete hardware systems** — from schematic to PCB (KiCad/Altium), firmware to field testing.  
+Primary focus areas: **flight controllers, ESP32/STM32 embedded boards, RF + telemetry, and end-to-end UAV systems**.
 
 ---
 
-## 🚀 Featured Projects (Portfolio)
+## ⭐ Highlights / Selected Projects
+> Click a repo for full details, schematics, images and logs.
 
-### 🛠️ PCBLy Toolkit (PCB Engineering GUI)
-A desktop GUI tool that helps PCB designers calculate:
-✅ trace width • ✅ via recommendation • ✅ impedance • ✅ voltage drop • ✅ IPC clearance  
-➡️ **Repo:** `pcbly-toolkit`
-
-### ✈️ Custom Drone Flight Controller PCB
-Designed a complete flight controller PCB with regulated rails, sensors interfacing, and UAV IO expansion.  
-➡️ **Repo:** `custom-flight-controller-pcb`
-
-### 🚁 ESP32 Drone Control Board
-ESP32-based drone PCB including USB-C power, LiPo charging, sensor interfaces and headers.  
-➡️ **Repo:** `esp32-drone-flight-controller`
-
-### 🔌 ESP32 Dev Board (KiCad)
-Custom development board design for embedded experimentation and compact integration.  
-➡️ **Repo:** `esp-devboard-prateek`
-
-### 🤖 Hand Gesture Controlled Robot (ESP-NOW)
-Wireless gesture control system using MPU6050 + ESP + motor driver.  
-➡️ **Repo:** `hand-gesture-controlled-robot-espnow`
+- **Custom Flight Controller PCB** — STM32-based flight controller with IMU, power rails and USB interface. *(Pins: `custom-flight-controller-pcb`)*  
+- **ESP32 Drone Control Board** — ESP32-based flight board with USB-C power, LiPo charging, and sensors. *(Pins: `esp32-drone-flight-controller`)*  
+- **PCBLy Toolkit** — Desktop GUI for PCB checks: trace width, via ampacity, microstrip impedance, voltage drop, IPC clearance. *(Pins: `pcbly-toolkit`)*  
+- **ESP Devboard & ELRS / Receiver projects** — small dev boards and RF receiver designs (KiCad sources, BOM, gerbers).
 
 ---
 
-## 🎯 What I’m Working On
-- Improving PCB layout practices (power integrity, grounding, RF routing basics)
-- UAV embedded hardware testing & integration
-- Firmware development mindset for robotics & drone systems
+## 🛠 Tech & Tools
+**Embedded:** ESP32, STM32, Arduino  
+**PCB & CAD:** KiCad, Altium, Fusion 360  
+**Comm & RF:** ExpressLRS, SPI, UART, I²C, SPI-based RF (SX series)  
+**Software:** Python (utilities & tooling), MATLAB basics  
+**Other:** Git, GitHub, Mission Planner / ArduPilot tools
 
 ---
 
-## 📊 GitHub Stats
-![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prateek-elec&show_icons=true&theme=tokyonight)
+## 📊 GitHub stats
+![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prateek-elec&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-elec&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/prateek-sarkar-0b3bb62ba  
-- Instagram: https://www.instagram.com/prateek__sarkar  
+## 📁 How to evaluate my work quickly
+1. **Open** `custom-flight-controller-pcb` — look for KiCad sources, schematic screenshots, and BOM.  
+2. **Open** `esp32-drone-flight-controller` — check PCB layout + 3D renders + build notes.  
+3. **Open** `pcbly-toolkit` — run the GUI (Python) to verify the calculators.  
+4. **Check** `logs/` or `ardupilot/params/` inside flight repos — presence of logs and param files = real field testing.
 
 ---
 
-⭐ *If you like my work, feel free to explore my repositories and connect!*
+## 📷 Portfolio (screenshots)
+Add screenshots to each repo's `docs/images` folder and reference them in the repo README for immediate visual proof.
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/prateek-sarkar-0b3bb62ba  
+- Instagram: https://www.instagram.com/prateek__sarkar  
+- Email: *your-email@example.com* (add if you want direct contact)
+
+---
+
+## ✅ Quick checklist (what I want you to do next)
+- [ ] Pin these 4 repos: `custom-flight-controller-pcb`, `esp32-drone-flight-controller`, `pcbly-toolkit`, `esp-devboard-prateek`  
+- [ ] Add `docs/images/` to each repo with: schematic.png, pcb-layout.png, 3d-render.png  
+- [ ] Add `LICENSE` (MIT recommended) and `.gitignore` to repos with KiCad artifacts excluded  
+- [ ] Add a short `How to run / open` section in repo READMEs (e.g., “Open `*.kicad_pro` with KiCad 8/9” or “python -m PCBLy.main”)  
+- [ ] Insert a downloadable résumé link (optional)
+
+---
+
+### If you’d like, I can:
+- Generate repo-specific README templates (with badges, BOM table, and schematic thumbnails) for each of the 4 pinned repos.  
+- Create 1-line LinkedIn headline and a short professional project caption for your top repo.
+
