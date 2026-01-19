@@ -1,70 +1,93 @@
-# Hi — I’m Prateek Sarkar 👋  
-**Electronics & Communication undergrad — Embedded Systems • UAVs • PCB Design • Robotics**  
-Gwalior • Open to Internship / Project Roles (UAV • Embedded • PCB)
+# Hi, I’m Prateek Sarkar 👋  
+### UAV Engineering • RC Planes • Flight Controllers • PCB Design (ECE)
+
+🚀 **Open to Internship / Project Roles** — UAV • Embedded Hardware • PCB Design • Robotics  
+I’m an **Electronics & Communication (ECE)** student who builds real systems:  
+✅ **RC planes + drones** • ✅ flight controllers • ✅ custom PCBs • ✅ full integration + testing
+
+I’m not a “pure software coder” — I’m a **hardware/UAV builder** who can write enough firmware/scripts when needed ✅
 
 ---
 
-## 🔭 What I build
-I design and build **complete hardware systems** — from schematic to PCB (KiCad/Altium), firmware to field testing.  
-Primary focus areas: **flight controllers, ESP32/STM32 embedded boards, RF + telemetry, and end-to-end UAV systems**.
+## ✈️ What I Work On (Core Focus)
+- **UAV systems engineering** (drones + fixed-wing)
+- **Flight controller hardware** (STM32/ESP-based boards)
+- **PCB design** (schematic → layout → manufacturing-ready)
+- **Sensors & interfaces** (IMU, GPS, I2C, SPI, UART)
+- **Power design** (regulators, filtering, safe rails)
+- **Testing + debugging mindset** (logs, tuning, iteration)
 
 ---
 
-## ⭐ Highlights / Selected Projects
-> Click a repo for full details, schematics, images and logs.
+## 🔥 Featured UAV & PCB Projects
+> These are my most relevant projects for UAV/robotics internships.
 
-- **Custom Flight Controller PCB** — STM32-based flight controller with IMU, power rails and USB interface. *(Pins: `custom-flight-controller-pcb`)*  
-- **ESP32 Drone Control Board** — ESP32-based flight board with USB-C power, LiPo charging, and sensors. *(Pins: `esp32-drone-flight-controller`)*  
-- **PCBLy Toolkit** — Desktop GUI for PCB checks: trace width, via ampacity, microstrip impedance, voltage drop, IPC clearance. *(Pins: `pcbly-toolkit`)*  
-- **ESP Devboard & ELRS / Receiver projects** — small dev boards and RF receiver designs (KiCad sources, BOM, gerbers).
+### 🛩️ RC Plane + Autopilot Integration
+- Fixed-wing plane build + electronics integration  
+- Flight controller setup + GPS + RC link + tuning workflow  
+✅ Proof: photos + parameter file + flight logs in the repo
+
+### 🛠️ Custom Flight Controller PCB (Hardware)
+- Custom flight controller PCB design  
+- Clean power rails + sensor interfacing + IO headers  
+- Built for UAV integration and future firmware work  
+➡️ Repo: **custom-flight-controller-pcb**
+
+### 🚁 ESP32 Drone Board (PCB + Embedded Integration)
+- ESP32 based drone control board  
+- Compact PCB design for UAV applications  
+➡️ Repo: **esp32-drone-flight-controller**
+
+### 📡 ELRS Receiver PCB (RF + Embedded Hardware)
+- Compact receiver hardware design (ESP + SX series RF)  
+- Focus on layout + RF section cleanliness + integration  
+➡️ Repo: **elrs receiver / hardware repos**
+
+### 🧰 PCBLy Toolkit (PCB Design Helper)
+- GUI-based toolkit for PCB engineering checks  
+(trace width, via suggestion, impedance estimate, voltage drop, clearance)  
+➡️ Repo: **pcbly-toolkit**
 
 ---
 
-## 🛠 Tech & Tools
-**Embedded:** ESP32, STM32, Arduino  
-**PCB & CAD:** KiCad, Altium, Fusion 360  
-**Comm & RF:** ExpressLRS, SPI, UART, I²C, SPI-based RF (SX series)  
-**Software:** Python (utilities & tooling), MATLAB basics  
-**Other:** Git, GitHub, Mission Planner / ArduPilot tools
+## 🧰 Tools & Skills (ECE / Hardware)
+### ✅ PCB Design
+- KiCad • Altium
+- Schematic design + PCB routing
+- DFM mindset + practical constraints
+
+### ✅ UAV & Embedded Hardware
+- ESP32 • STM32 • Arduino  
+- IMU / GPS integration  
+- Motor drivers / ESC systems  
+- UART • I2C • SPI
+
+### ✅ CAD / Build
+- Fusion 360
+- Mechanical fitment + mounting + wiring discipline
 
 ---
 
-## 📊 GitHub stats
-![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prateek-elec&show_icons=true&theme=tokyonight)  
+## 📊 GitHub Stats
+*(Stats are optional but recruiters like activity proof)*
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prateek-elec&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-elec&layout=compact&theme=tokyonight)
 
 ---
 
-## 📁 How to evaluate my work quickly
-1. **Open** `custom-flight-controller-pcb` — look for KiCad sources, schematic screenshots, and BOM.  
-2. **Open** `esp32-drone-flight-controller` — check PCB layout + 3D renders + build notes.  
-3. **Open** `pcbly-toolkit` — run the GUI (Python) to verify the calculators.  
-4. **Check** `logs/` or `ardupilot/params/` inside flight repos — presence of logs and param files = real field testing.
+## 🧠 My Engineering Style
+- Build fast ✅  
+- Test quickly ✅  
+- Debug systematically ✅  
+- Improve design iteration by iteration ✅  
+
+I love hands-on engineering — especially **UAV electronics + PCB designing**.
 
 ---
 
-## 📷 Portfolio (screenshots)
-Add screenshots to each repo's `docs/images` folder and reference them in the repo README for immediate visual proof.
-
----
-
-## 📫 Contact
+## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/prateek-sarkar-0b3bb62ba  
 - Instagram: https://www.instagram.com/prateek__sarkar  
-- Email: *your-email@example.com* (add if you want direct contact)
 
----
-
-## ✅ Quick checklist (what I want you to do next)
-- [ ] Pin these 4 repos: `custom-flight-controller-pcb`, `esp32-drone-flight-controller`, `pcbly-toolkit`, `esp-devboard-prateek`  
-- [ ] Add `docs/images/` to each repo with: schematic.png, pcb-layout.png, 3d-render.png  
-- [ ] Add `LICENSE` (MIT recommended) and `.gitignore` to repos with KiCad artifacts excluded  
-- [ ] Add a short `How to run / open` section in repo READMEs (e.g., “Open `*.kicad_pro` with KiCad 8/9” or “python -m PCBLy.main”)  
-- [ ] Insert a downloadable résumé link (optional)
-
----
-
-### If you’d like, I can:
-- Generate repo-specific README templates (with badges, BOM table, and schematic thumbnails) for each of the 4 pinned repos.  
-- Create 1-line LinkedIn headline and a short professional project caption for your top repo.
-
+⭐ Feel free to explore my pinned UAV/PCB projects!
