@@ -1,87 +1,31 @@
-# Hi, I’m Prateek Sarkar 👋  
-### UAV Engineering • RC Planes • Flight Controllers • PCB Design (ECE)
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020024,35:1d2b64,70:00f5d4,100:ff4ecd&text=PRATEEK%20SARKAR&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=UAV%20Hardware%20%7C%20Embedded%20Systems%20%7C%20PCB%20Design&descAlignY=58&descSize=18&animation=fadeIn" alt="Prateek Sarkar banner" /> </p> <p align="center"> <a href="https://github.com/Prateek-elec"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Undergrad;Building+flight+controllers+from+schematic+to+sky;STM32+%2B+ESP32+%2B+KiCad+%2B+Robotics;Hardware+that+escapes+the+breadboard" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Prateek-elec&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/badge/Focus-UAV%20Systems-ff4ecd?style=for-the-badge" alt="Focus UAV systems" /> <img src="https://img.shields.io/badge/Mode-Build%20%7C%20Test%20%7C%20Iterate-1d2b64?style=for-the-badge" alt="Build test iterate" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/prateek-sarkar-0b3bb62ba/"> <img src="https://img.shields.io/badge/LinkedIn-Prateek%20Sarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/prateek__sarkar?igsh=MTZzMzdvODhtaGxrZg=="> <img src="https://img.shields.io/badge/Instagram-prateek__sarkar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://github.com/Prateek-elec?tab=repositories"> <img src="https://img.shields.io/badge/Projects-Open%20Hangar-00f5d4?style=for-the-badge&logo=github&logoColor=111111" alt="GitHub repositories" /> </a> </p>
+<pre align="center"> +----------------------------------------------------------------------+ | PRATEEK-ELEC MISSION CONSOLE | +----------------------------------------------------------------------+ | target : UAV flight hardware, robotics, embedded control | | stack : STM32, ESP32, Arduino, KiCad, Altium, Python, Fusion 360 | | craft : custom PCBs, sensor interfaces, power rails, firmware | | status : designing things that can survive beyond the workbench | +----------------------------------------------------------------------+ </pre>
+Flight Deck
+<table> <tr> <td width="50%"> <h3>What I build</h3> <ul> <li>Custom flight controller PCBs for drones and robotics</li> <li>ESP32 and STM32 based embedded systems</li> <li>Sensor, power, USB, and motor/servo interface boards</li> <li>Robotics projects with wireless control and real-world motion</li> </ul> </td> <td width="50%"> <h3>Current runway</h3> <ul> <li>Reliable UAV power and sensor interface design</li> <li>Compact flight-controller hardware in KiCad</li> <li>Firmware experiments for embedded communications</li> <li>Better project documentation, photos, and build logs</li> </ul> </td> </tr> </table>
+Tech Payload
+<p align="center"> <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /> <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" /> <img src="https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" /> <img src="https://img.shields.io/badge/Fusion%20360-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" /> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/C%20%2F%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C and C++" /> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" /> <img src="https://img.shields.io/badge/PCB%20Design-111111?style=for-the-badge&logo=circuitverse&logoColor=00f5d4" alt="PCB Design" /> </p>
+Featured Builds
+<p align="center"> <a href="https://github.com/Prateek-elec/custom-flight-controller-pcb"> <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Prateek-elec&repo=custom-flight-controller-pcb&theme=tokyonight&hide_border=true&border_radius=10" alt="Custom flight controller PCB repo card" /> </a> <a href="https://github.com/Prateek-elec/esp32-drone-flight-controller"> <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Prateek-elec&repo=esp32-drone-flight-controller&theme=tokyonight&hide_border=true&border_radius=10" alt="ESP32 drone flight controller repo card" /> </a> </p> <table> <tr> <td align="center" width="25%"> <b>Flight Controller PCB</b><br /> STM32, IMU, USB, regulated rails, expansion headers </td> <td align="center" width="25%"> <b>ESP32 Drone Board</b><br /> USB-C, LiPo charging, sensors, motor and servo outputs </td> <td align="center" width="25%"> <b>Gesture Robot</b><br /> ESP-NOW control, embedded motion, wireless experiments </td> <td align="center" width="25%"> <b>PCB Utilities</b><br /> Python GUI tools for electronics workflow speedups </td> </tr> </table>
+Telemetry
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prateek-elec&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Prateek-elec&theme=tokyonight&hide_border=true" alt="GitHub streak stats" /> </p> <p align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-elec&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prateek-elec&theme=tokyonight&utcOffset=5.5" alt="Productive time" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-elec&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" /> </p>
+Achievement Radar
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Prateek-elec&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub profile trophies" /> </p>
+Build Philosophy
+Idea -> schematic -> PCB -> firmware -> test bench -> failure -> fix -> flight
 
-🚀 **Open to Internship / Project Roles** — UAV • Embedded Hardware • PCB Design • Robotics  
-I’m an **Electronics & Communication (ECE)** student who builds real systems:  
-✅ **RC planes + drones** • ✅ flight controllers • ✅ custom PCBs • ✅ full integration + testing
+I like engineering that gets physical:
+signals you can probe, boards you can hold, and drones that prove the math.
+<details> <summary><b>Open the hidden hangar</b></summary> <br />
+       __|__
+--o--o--(_)--o--o--
+        / \
 
-I’m not a “pure software coder” — I’m a **hardware/UAV builder** who can write enough firmware/scripts when needed ✅
-
----
-
-## ✈️ What I Work On (Core Focus)
-- **UAV systems engineering** (drones + fixed-wing)
-- **Flight controller hardware** (STM32/ESP-based boards)
-- **PCB design** (schematic → layout → manufacturing-ready)
-- **Sensors & interfaces** (IMU, GPS, I2C, SPI, UART)
-- **Power design** (regulators, filtering, safe rails)
-- **Testing + debugging mindset** (logs, tuning, iteration)
-
----
-
-## 🔥 Featured UAV & PCB Projects
-> These are my most relevant projects for UAV/robotics internships.
-
-### 🛩️ RC Plane + Autopilot Integration
-- Fixed-wing plane build + electronics integration  
-- Flight controller setup + GPS + RC link + tuning workflow  
-✅ Proof: photos + parameter file + flight logs in the repo
-
-### 🛠️ Custom Flight Controller PCB (Hardware)
-- Custom flight controller PCB design  
-- Clean power rails + sensor interfacing + IO headers  
-- Built for UAV integration and future firmware work  
-➡️ Repo: **custom-flight-controller-pcb**
-
-### 🚁 ESP32 Drone Board (PCB + Embedded Integration)
-- ESP32 based drone control board  
-- Compact PCB design for UAV applications  
-➡️ Repo: **esp32-drone-flight-controller**
-
-### 📡 ELRS Receiver PCB (RF + Embedded Hardware)
-- Compact receiver hardware design (ESP + SX series RF)  
-- Focus on layout + RF section cleanliness + integration  
-➡️ Repo: **elrs receiver / hardware repos**
-
-### 🧰 PCBLy Toolkit (PCB Design Helper)
-- GUI-based toolkit for PCB engineering checks  
-(trace width, via suggestion, impedance estimate, voltage drop, clearance)  
-➡️ Repo: **pcbly-toolkit**
-
----
-
-## 🧰 Tools & Skills (ECE / Hardware)
-### ✅ PCB Design
-- KiCad • Altium
-- Schematic design + PCB routing
-- DFM mindset + practical constraints
-
-### ✅ UAV & Embedded Hardware
-- ESP32 • STM32 • Arduino  
-- IMU / GPS integration  
-- Motor drivers / ESC systems  
-- UART • I2C • SPI
-
-### ✅ CAD / Build
-- Fusion 360
-- Mechanical fitment + mounting + wiring discipline
-
----
-
----
-
-## 🧠 My Engineering Style
-- Build fast ✅  
-- Test quickly ✅  
-- Debug systematically ✅  
-- Improve design iteration by iteration ✅  
-
-I love hands-on engineering — especially **UAV electronics + PCB designing**.
-
----
-
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/prateek-sarkar-0b3bb62ba  
-- Instagram: https://www.instagram.com/prateek__sarkar  
-
-⭐ Feel free to explore my pinned UAV/PCB projects!
+Checklist before takeoff:
+[x] route power cleanly
+[x] label every connector
+[x] keep sensor lines sane
+[ ] make the next revision smaller
+[ ] get more flight data
+</details>
+Connect
+<p align="center"> <a href="https://www.linkedin.com/in/prateek-sarkar-0b3bb62ba/"> <img src="https://img.shields.io/badge/Let's%20talk%20hardware-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /> </a> <a href="https://github.com/Prateek-elec"> <img src="https://img.shields.io/badge/Follow%20the%20builds-GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff4ecd,50:00f5d4,100:1d2b64" alt="Footer wave" /> </p>
