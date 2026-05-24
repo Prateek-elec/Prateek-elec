@@ -1,315 +1,237 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,35:052e2b,65:064e3b,100:f59e0b&text=PRATEEK%20ELEC&fontColor=eaffff&fontSize=58&fontAlignY=36&desc=UAV%20BLACK%20BOX%20%7C%20PCB%20WAR%20ROOM%20%7C%20EMBEDDED%20LAB%20TERMINAL&descAlignY=60&descSize=16&animation=twinkling" alt="Prateek Elec UAV black box banner" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                  PRATEEK SARKAR — GITHUB PROFILE README                -->
+<!--          UAV BLACK BOX  //  PCB WAR ROOM  //  EMBEDDED LAB TERMINAL    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="https://github.com/Prateek-elec">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&duration=2400&pause=650&color=00F5D4&center=true&vCenter=true&width=980&lines=electronics+engineer+%2F+pcb+designer+%2F+uav+builder;schematic+in+the+morning%2C+smoke+test+by+midnight;turning+copper%2C+firmware%2C+and+bad+decisions+into+flight+data;rev+1+was+a+prototype.+rev+2+was+a+confession.+rev+3+will+fly.+probably." alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Prateek-elec?tab=followers">
-    <img src="https://img.shields.io/github/followers/Prateek-elec?label=FOLLOW%20THE%20FLIGHT%20LOG&style=for-the-badge&color=00f5d4&labelColor=020617" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/Prateek-elec?tab=repositories">
-    <img src="https://img.shields.io/badge/HANGAR-OPEN-22c55e?style=for-the-badge&labelColor=020617" alt="Open hangar" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Prateek-elec&label=BLACK%20BOX%20READS&color=f59e0b&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/MAGIC%20SMOKE-CONTAINED%20FOR%20NOW-ef4444?style=for-the-badge&labelColor=020617" alt="Magic smoke contained" />
-</p>
+[![Banner](https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,35:052e2b,65:064e3b,100:f59e0b&text=PRATEEK%20SARKAR&fontColor=eaffff&fontSize=52&fontAlignY=38&desc=Hardware%20Engineer%20%7C%20PCB%20Designer%20%7C%20UAV%20Systems%20Builder&descAlignY=60&descSize=16&animation=twinkling)](https://github.com/Prateek-elec)
 
-<p align="center">
-  <a href="#mission-control"><img src="https://img.shields.io/badge/MISSION-CONTROL-00f5d4?style=flat-square&labelColor=020617" alt="Mission control" /></a>
-  <a href="#payload-bay"><img src="https://img.shields.io/badge/PAYLOAD-BAY-f59e0b?style=flat-square&labelColor=020617" alt="Payload bay" /></a>
-  <a href="#featured-builds"><img src="https://img.shields.io/badge/FEATURED-BUILDS-22c55e?style=flat-square&labelColor=020617" alt="Featured builds" /></a>
-  <a href="#failure-simulator"><img src="https://img.shields.io/badge/FAILURE-SIMULATOR-ef4444?style=flat-square&labelColor=020617" alt="Failure simulator" /></a>
-  <a href="#telemetry"><img src="https://img.shields.io/badge/TELEMETRY-38bdf8?style=flat-square&labelColor=020617" alt="Telemetry" /></a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prateek-sarkar-0b3bb62ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-lab%20operator-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/prateek__sarkar?igsh=MTZzMzdvODhtaGxrZg==">
-    <img src="https://img.shields.io/badge/Instagram-visual%20evidence-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/Prateek-elec">
-    <img src="https://img.shields.io/badge/GitHub-source%20of%20the%20smoke-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
 
-```txt
-       ______________________________________________________________
-      /                                                              \
-     /   UAV BLACK BOX // PCB WAR ROOM // EMBEDDED SYSTEMS TERMINAL  \
-    /__________________________________________________________________\
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2400&pause=650&color=00F5D4&center=true&vCenter=true&width=980&lines=electronics+engineer+%2F+pcb+designer+%2F+uav+builder;schematic+in+the+morning%2C+smoke+test+by+midnight;turning+copper%2C+firmware%2C+and+bad+decisions+into+flight+data;rev+1+was+a+prototype.+rev+2+was+a+confession.+rev+3+will+fly.+probably.)](https://github.com/Prateek-elec)
 
-           .----.                         .----------------.
-      -----| IMU |----- SPI/I2C/UART -----| MCU: judging me |-----
-           '----'                         '----------------'
-              \                              /
-               \       copper anxiety       /
-                \__________________________/
-                     \   ESC    ESC   /
-                  ----o----o----o----o----
-                       \  quad airframe /
-                        \______________/
+</div>
 
-  BOOT_LOG:
-  > engineer detected
-  > coffee level: mission critical
-  > datasheet opened: confidence temporarily increased
-  > board powered: everyone in the room got quiet
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lab%20operator-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-sarkar-0b3bb62ba/)
+[![Instagram](https://img.shields.io/badge/Instagram-visual%20evidence-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prateek__sarkar)
+[![GitHub](https://img.shields.io/badge/GitHub-source%20of%20the%20smoke-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Prateek-elec)
+[![Profile views](https://komarev.com/ghpvc/?username=Prateek-elec&label=BLACK+BOX+READS&color=f59e0b&style=flat-square)](https://github.com/Prateek-elec)
+
+</div>
+
+---
+
+## `> BOOT_LOG`
+
+```
+[INIT]  engineer detected — Prateek Sarkar, Electronics & Communication, 2023–2027
+[INFO]  PCB tools loaded: KiCad · Altium Designer
+[INFO]  MCU stack ready: STM32F405 · ESP32 · ESP32-S3 · Arduino
+[INFO]  Bus protocols online: UART · SPI · I²C · CAN · RS232
+[INFO]  Power subsystem: Buck · Boost · LDO · LiPo integration
+[INFO]  Test gear armed: Oscilloscope · Logic Analyzer · Bench PSU
+[WARN]  "Just a quick revision" event detected — brace for REV_N+1
+[ OK ]  Lab terminal online. Keep fingers away from props and opinions away from DRC.
 ```
 
-## Mission Control
+---
 
-> Electronics engineer, PCB designer, drone/UAV builder, embedded systems tinkerer, and part-time negotiator between firmware, copper, and gravity.
+## `> WHOAMI` — The Real Dossier
 
-<table>
-  <tr>
-    <td width="58%">
-      <h3>Current Mission</h3>
-      <ul>
-        <li>Build compact UAV electronics that look intentional even under a microscope.</li>
-        <li>Design flight-controller PCBs with sane power rails, sensor routing, and fewer "why is this net floating" moments.</li>
-        <li>Make STM32/ESP32 hardware behave in real time, in the real world, near real propellers. Horrifying concept.</li>
-        <li>Convert crash logs, scope traces, and DRC warnings into actual engineering progress.</li>
-      </ul>
-    </td>
-    <td width="42%">
-      <h3>Lab Status</h3>
-      <pre>
-PCB_REVISION      [REV_N_PLUS_ONE]
-POWER_RAILS       [STABLE UNTIL TOUCHED]
-UART              [SILENT. RUDE.]
-I2C               [ACK? SOMETIMES.]
-IMU               [VIBRATION POETRY]
-ESC               [LOUD CONFIDENCE]
-FLIGHT_TEST       [GRAVITY INVITED]
-      </pre>
-    </td>
-  </tr>
-</table>
+> **Not a hobbyist. Not yet a veteran. Exactly at the intersection where both things are simultaneously true.**
 
-## Payload Bay
+I design PCBs that have to work in real-world conditions — near spinning propellers, inside military-adjacent systems, and under the kind of scrutiny that comes when the people testing your hardware have actual missions to fly.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,git,github,cmake,vscode,matlab" alt="Core toolkit icons" />
-</p>
+I build flight controllers, UAV avionics, dev boards, and power management systems — from first schematic to bring-up to field validation. I've done this at **IIT Roorkee**, at **Karman Drones**, and in direct collaboration with the **Border Security Force of India** on classified UAV and robotics projects.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
-  <img src="https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
-  <img src="https://img.shields.io/badge/Fusion%20360-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" />
-  <img src="https://img.shields.io/badge/UAV%20Hardware-020617?style=for-the-badge&logo=ardupilot&logoColor=00f5d4" alt="UAV hardware" />
-</p>
+The hardware runs. The drones fly. Some of the lessons were expensive.
 
-```txt
+---
+
+## `> CLEARANCE_LEVEL` — Achievements & Recognition
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                        MISSION DEBRIEF                               ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  ★  Acknowledged by Amit Shah, Hon'ble Home Minister of India        ║
+║     for technical contributions to national-level initiatives.       ║
+║                                                                      ║
+║  ★  Awarded ₹1,00,000 by DG Daljit Singh Chaudhary, BSF             ║
+║     for excellence in robotics and technical innovation.             ║
+║                                                                      ║
+║  ★  Awarded ₹1,00,000 by ADG Dr. Shamsher Singh, BSF Academy        ║
+║     for successful execution of advanced technical projects.         ║
+║     [project details restricted — classification level: actual]      ║
+║                                                                      ║
+║  ★  Contributed to classified UAV & robotics systems, BSF            ║
+║     Full-cycle hardware development. Mission-critical environments.  ║
+║                                                                      ║
+║  ★  Trained 200+ students in robotics & embedded systems             ║
+║     Hands-on workshops. Arduino to autonomous bots.                  ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `> FLIGHT_MANIFEST` — Where I've Operated
+
+| Organisation | Role | What Actually Happened |
+|---|---|---|
+| 🔬 **IIT Roorkee** | Electronics Engineer Intern | Multilayer PCBs, signal integrity, STM32/ESP32 integration, MAVLink, flight controller + avionics hardware from schematic to system test |
+| 🚁 **Karman Drones** | UAV Systems Engineer Intern | Surveillance + payload UAV platforms, FPV + optical-fiber-controlled systems, flight-time optimisation, real-world payload validation |
+| 🛡️ **BSF (Classified)** | Hardware Collaborator | UAV and robotics systems for national-level deployment. Details restricted. The hardware flew. |
+| 📡 **Saveraama Pvt. Ltd.** | Robotics Workshop Trainer | Taught 200+ students: Arduino fundamentals, line-following bots, gesture-controlled systems, automation projects |
+
+---
+
+## `> PAYLOAD_BAY` — Tools & Stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,git,github,cmake,vscode,matlab)](https://github.com/Prateek-elec)
+
+</div>
+
+<div align="center">
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![UAV Hardware](https://img.shields.io/badge/UAV%20Hardware-020617?style=for-the-badge&logo=ardupilot&logoColor=00f5d4)
+
+</div>
+
+```
 PAYLOAD_MANIFEST
 
-[PCB DESIGN]      copper origami, but the origami can short VBAT to GND
-[EMBEDDED C/C++]  loops, timers, interrupts, and one boolean that ruins everything
-[DRONE SYSTEMS]   sensors, ESCs, motor outputs, LiPo caution, and brave optimism
-[ROBOTICS]        moving parts plus debugging, because stationary bugs were too easy
-[TEST GEAR]       multimeter, scope, bench PSU, hot air, and a suspiciously calm face
+[PCB DESIGN]        KiCad · Altium · 4-layer boards · impedance control · EMI/EMC
+[EMBEDDED C/C++]    STM32F405 · ESP32 · ESP32-S3 · real-time control loops
+[BUS PROTOCOLS]     UART · SPI · I²C · CAN · RS232 · MAVLink
+[POWER SYSTEMS]     Buck · Boost · LDO · LiPo charging · multi-rail regulation
+[DRONE HARDWARE]    Flight controllers · ESC routing · IMU placement · telemetry
+[TEST & DEBUG]      Oscilloscope · Logic Analyzer · Bench PSU · smoke-test rituals
 ```
 
-## What I Build
+---
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/01-FLIGHT%20CONTROLLERS-00f5d4?style=flat-square&labelColor=020617" alt="Flight controllers" /><br />
-      <b>UAV Brains</b><br />
-      IMU placement, regulated rails, USB, headers, buses, and connector choices future-me will judge.
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/02-PCB%20SYSTEMS-f59e0b?style=flat-square&labelColor=020617" alt="PCB systems" /><br />
-      <b>Copper Warfare</b><br />
-      Schematics, layouts, pours, clearances, silkscreen lies, and DRC diplomacy.
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/03-EMBEDDED%20CONTROL-22c55e?style=flat-square&labelColor=020617" alt="Embedded control" /><br />
-      <b>Firmware Rituals</b><br />
-      STM32, ESP32, Arduino, control loops, bus debugging, and timing problems with personality.
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/04-ROBOTICS%20LAB-38bdf8?style=flat-square&labelColor=020617" alt="Robotics lab" /><br />
-      <b>Moving Hardware</b><br />
-      Wireless control, motors, sensor fusion experiments, and mechanical tolerances called "fine".
-    </td>
-  </tr>
-</table>
+## `> FEATURED_BUILDS` — Open Source Hardware
 
-## Featured Builds
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Prateek-elec/custom-flight-controller-pcb">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Prateek-elec&repo=custom-flight-controller-pcb&theme=merko&hide_border=true&border_radius=8" alt="Custom flight controller PCB repo card" />
-  </a>
-  <a href="https://github.com/Prateek-elec/esp32-drone-flight-controller">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Prateek-elec&repo=esp32-drone-flight-controller&theme=merko&hide_border=true&border_radius=8" alt="ESP32 drone flight controller repo card" />
-  </a>
-</p>
+[![Flight controller PCB](https://github-readme-stats.vercel.app/api/pin/?username=Prateek-elec&repo=custom-flight-controller-pcb&theme=merko&hide_border=true&border_radius=8)](https://github.com/Prateek-elec/custom-flight-controller-pcb)
+[![ESP32 drone controller](https://github-readme-stats.vercel.app/api/pin/?username=Prateek-elec&repo=esp32-drone-flight-controller&theme=merko&hide_border=true&border_radius=8)](https://github.com/Prateek-elec/esp32-drone-flight-controller)
 
-<details>
-  <summary><b>Open the build black box</b></summary>
-  <br />
+[![ELRS receiver PCB](https://github-readme-stats.vercel.app/api/pin/?username=Prateek-elec&repo=elrs-receiver-pcb&theme=merko&hide_border=true&border_radius=8)](https://github.com/Prateek-elec/elrs-receiver-pcb)
+[![PCB toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Prateek-elec&repo=pcbly-toolkit&theme=merko&hide_border=true&border_radius=8)](https://github.com/Prateek-elec/pcbly-toolkit)
 
-```txt
-[FC-BOARD] custom-flight-controller-pcb
-  mission : compact flight controller hardware
-  drama   : power rails, IMU routing, connector politics
-  quote   : "It passed DRC, which means nothing bad can happen." - famous last thought
+</div>
 
-[ESP-DRONE] esp32-drone-flight-controller
-  mission : ESP32 based drone controller board
-  drama   : wireless confidence near spinning hardware
-  quote   : "It works on the bench." - sentence heard before impact
-
-[LAB-UTILS] robotics / pcb / embedded experiments
-  mission : build faster, debug smarter, repeat anyway
-  drama   : every helper tool was born from pain
 ```
-</details>
+BUILD_LOG
 
-## Failure Simulator
+[FC-BOARD]   custom-flight-controller-pcb
+             STM32F405 · IMU · BMP388 · SPI Flash · USB-C · ESC routing
+             Power management · Reverse polarity protection · CAN bus
+             Status: Hardware-firmware co-design. Real-time flight control.
 
-Like the reference-profile game energy, but for hardware people: click a failure mode and pretend it was a planned test case.
+[ESP-DRONE]  esp32-drone-flight-controller
+             4-layer KiCad · ESP32 · MPU6050 IMU · Motor drivers
+             LiPo charging · UART/I²C/SPI · 3D mechanical clearance verified
+             Status: Wireless telemetry confirmed. Props attached. Brave.
 
-<p align="center">
-  <a href="https://github.com/Prateek-elec/Prateek-elec/issues/new?title=BLACK_BOX_EVENT%3A%20TX%20and%20RX%20were%20swapped&body=Symptom%3A%20UART%20is%20silent.%0ATheory%3A%20It%20was%20definitely%20the%20other%20pin.">
-    <img src="https://img.shields.io/badge/A1-TX%2FRX%20SWAPPED-ef4444?style=for-the-badge&labelColor=020617" alt="TX RX swapped" />
-  </a>
-  <a href="https://github.com/Prateek-elec/Prateek-elec/issues/new?title=BLACK_BOX_EVENT%3A%20Ground%20via%20went%20missing&body=Symptom%3A%20board%20acts%20haunted.%0ATheory%3A%20ground%20return%20path%20was%20a%20concept%2C%20not%20a%20feature.">
-    <img src="https://img.shields.io/badge/B2-MISSING%20GND%20VIA-f59e0b?style=for-the-badge&labelColor=020617" alt="Missing ground via" />
-  </a>
-  <a href="https://github.com/Prateek-elec/Prateek-elec/issues/new?title=BLACK_BOX_EVENT%3A%20Motor%20spins%20the%20wrong%20way&body=Symptom%3A%20flight%20test%20became%20floor%20test.%0ATheory%3A%20phase%20order%20has%20entered%20the%20chat.">
-    <img src="https://img.shields.io/badge/C3-MOTOR%20REVERSED-22c55e?style=for-the-badge&labelColor=020617" alt="Motor reversed" />
-  </a>
-  <a href="https://github.com/Prateek-elec/Prateek-elec/issues/new?title=BLACK_BOX_EVENT%3A%20Magic%20smoke%20near%20regulator&body=Symptom%3A%20smell%20of%20learning.%0ATheory%3A%20absolute%20maximum%20ratings%20were%20not%20a%20suggestion.">
-    <img src="https://img.shields.io/badge/D4-MAGIC%20SMOKE-111827?style=for-the-badge&labelColor=ef4444&color=020617" alt="Magic smoke" />
-  </a>
-</p>
+[ELRS-RX]    elrs-receiver-pcb
+             ESP8285 + SX1280 · RF matching network · Compact layout
+             3.3V regulation · antenna routing · sub-GHz link
+             Status: Signal received. Most of the time.
 
-```txt
-BLACK_BOX_LOG.TXT
-
-[BOOT] UAV lab terminal online. Please keep hands away from props and opinions away from DRC.
-[INFO] Schematic reviewed. Confidence increased by 14%. False confidence increased by 86%.
-[WARN] "Just a quick PCB revision" detected. Calendar damage likely.
-[ERR ] I2C device not found. Pull-ups currently questioning their life choices.
-[ERR ] Motor 3 spins backwards. Firmware blames hardware. Hardware has lawyered up.
-[WARN] Silkscreen says VCC. Multimeter says comedy.
-[ OK ] Board did not release smoke. Suspicious. Continue monitoring.
+[PCB-TOOLS]  pcbly-toolkit
+             Trace width · Via sizing · Impedance · Voltage drop · Clearance
+             Status: Because mental math at 2AM is a liability.
 ```
 
-<details>
-  <summary><b>Emergency smoke-test ritual</b></summary>
-  <br />
+---
 
-```txt
-1. Set bench supply current limit like you respect your wallet.
-2. Connect board.
-3. Hover finger over power switch like a dramatic movie scene.
-4. Turn on.
-5. Watch LED.
-6. Smell air.
-7. Touch regulator once, instantly regret confidence.
-8. Open schematic with detective energy.
+## `> TELEMETRY` — Stats
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prateek-elec&show_icons=true&theme=merko&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Black+Box+Telemetry)](https://github.com/Prateek-elec)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=Prateek-elec&theme=merko&hide_border=true&card_width=420)](https://github.com/Prateek-elec)
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-elec&layout=compact&theme=merko&hide_border=true&langs_count=8)](https://github.com/Prateek-elec)
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prateek-elec&theme=merko&hide_border=true&area=true&bg_color=020617&color=00f5d4&line=f59e0b&point=22c55e&custom_title=Commit+Oscilloscope)](https://github.com/Prateek-elec)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Prateek-elec&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4)](https://github.com/Prateek-elec)
+
+</div>
+
+---
+
+## `> LAB_STATUS`
+
 ```
-</details>
-
-## Telemetry
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prateek-elec&show_icons=true&theme=merko&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Black%20Box%20Telemetry" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Prateek-elec&theme=merko&hide_border=true&card_width=420" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-elec&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Top languages" />
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prateek-elec&theme=merko&utcOffset=5.5" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-elec&theme=merko&hide_border=true&area=true&bg_color=020617&color=00f5d4&line=f59e0b&point=22c55e&custom_title=Commit%20Oscilloscope" alt="GitHub activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prateek-elec&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub profile trophies" />
-</p>
-
-## Lab Memes
-
-```txt
-ENGINEERING QUOTES FOUND ON THE FLOOR
-
-"It is probably just firmware."
-  - every PCB before becoming the problem
-
-"The datasheet says typical."
-  - a villain origin story
-
-"I will add test points later."
-  - narrator: he did not
-
-"This connector orientation is obvious."
-  - board revision N-1
-
-"It flies."
-  - acceptable substitute for "it is fully understood"
+PCB_REVISION        [REV_N_PLUS_ONE — always]
+POWER_RAILS         [STABLE until touched]
+UART                [SILENT. Rude.]
+I2C                 [ACK? Sometimes.]
+IMU                 [Vibration poetry at 1kHz]
+ESC OUTPUTS         [Loud confidence]
+FPV FLIGHT CTRL     [ONGOING — STM32F405 · EMI reduction · compact form factor]
+MAGIC_SMOKE         [Contained. Suspicious.]
 ```
 
-<table>
-  <tr>
-    <td width="33%">
-      <b>Most feared component</b><br />
-      The tiny regulator that gets warm enough to develop opinions.
-    </td>
-    <td width="33%">
-      <b>Most suspicious signal</b><br />
-      The one that works only when the oscilloscope probe is attached.
-    </td>
-    <td width="33%">
-      <b>Most honest test</b><br />
-      First flight, because gravity has no respect for optimism.
-    </td>
-  </tr>
-</table>
+---
 
-## Build Philosophy
+## `> BUILD_PHILOSOPHY`
 
-```txt
-IDEA -> DATASHEET -> SCHEMATIC -> PCB -> ASSEMBLY -> FIRMWARE
-     -> TEST -> CONFUSION -> SCOPE TRACE -> FIX -> REPEAT -> FLIGHT
+```
+IDEA → DATASHEET → SCHEMATIC → LAYOUT → FABRICATE → ASSEMBLE
+     → BRING-UP → CONFUSION → SCOPE TRACE → FIX → REPEAT → FLIGHT
 
 FIELD RULES:
 01. Test points are cheaper than emotional damage.
-02. Current limit first. Confidence later.
-03. If the board works first try, inspect reality for defects.
-04. DRC passing means the computer has no more complaints. The universe may still object.
+02. Current limit first. Confidence later. Always.
+03. If the board works on first power-up, inspect reality for defects.
+04. DRC passing means the computer is satisfied. The universe may still object.
 05. Every failed revision is tuition paid directly to the laws of physics.
+06. The datasheet says "typical." That's a villain origin story.
+07. "It flies" is an acceptable substitute for "it is fully understood."
 ```
 
-## Contact Uplink
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prateek-sarkar-0b3bb62ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-send%20mission%20brief-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/prateek__sarkar?igsh=MTZzMzdvODhtaGxrZg==">
-    <img src="https://img.shields.io/badge/Instagram-lab%20receipts-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/Prateek-elec?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-open%20source%20hangar-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
-  </a>
-</p>
+## `> FAILURE_SIMULATOR` — Click a Known Issue
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:f59e0b,45:00f5d4,100:020617" alt="Footer wave" />
-</p>
+[![TX/RX Swapped](https://img.shields.io/badge/A1-TX%2FRX%20SWAPPED-ef4444?style=for-the-badge&labelColor=020617)](https://github.com/Prateek-elec/Prateek-elec/issues/new?title=BLACK_BOX_EVENT:%20TX%20and%20RX%20were%20swapped&body=Symptom:%20UART%20is%20silent.%0ATheory:%20It%20was%20definitely%20the%20other%20pin.)
+[![Missing GND Via](https://img.shields.io/badge/B2-MISSING%20GND%20VIA-f59e0b?style=for-the-badge&labelColor=020617)](https://github.com/Prateek-elec/Prateek-elec/issues/new?title=BLACK_BOX_EVENT:%20Ground%20via%20went%20missing&body=Symptom:%20board%20acts%20haunted.%0ATheory:%20ground%20return%20path%20was%20a%20concept,%20not%20a%20feature.)
+[![Motor Reversed](https://img.shields.io/badge/C3-MOTOR%20REVERSED-22c55e?style=for-the-badge&labelColor=020617)](https://github.com/Prateek-elec/Prateek-elec/issues/new?title=BLACK_BOX_EVENT:%20Motor%20spins%20wrong%20way&body=Symptom:%20flight%20test%20became%20floor%20test.%0ATheory:%20phase%20order%20has%20entered%20the%20chat.)
+[![Magic Smoke](https://img.shields.io/badge/D4-MAGIC%20SMOKE-111827?style=for-the-badge&labelColor=ef4444&color=020617)](https://github.com/Prateek-elec/Prateek-elec/issues/new?title=BLACK_BOX_EVENT:%20Magic%20smoke%20near%20regulator&body=Symptom:%20smell%20of%20learning.%0ATheory:%20absolute%20maximum%20ratings%20were%20not%20a%20suggestion.)
+
+---
+
+## `> CONTACT_UPLINK`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-send%20mission%20brief-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-sarkar-0b3bb62ba/)
+[![Instagram](https://img.shields.io/badge/Instagram-lab%20receipts-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prateek__sarkar)
+[![GitHub](https://img.shields.io/badge/GitHub-open%20source%20hangar-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prateek-elec?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-prateeksarkar07@gmail.com-00f5d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prateeksarkar07@gmail.com)
+
+</div>
+
+<div align="center">
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:f59e0b,45:00f5d4,100:020617)](https://github.com/Prateek-elec)
+
+</div>
