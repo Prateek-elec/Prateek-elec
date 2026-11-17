@@ -127,6 +127,11 @@ PAYLOAD_MANIFEST
 
 <div align="center">
 
+<a href="https://github.com/Prateek-elec/PIXBIT"><img src="https://raw.githubusercontent.com/Prateek-elec/PIXBIT/main/images/pixbit-hero.png" width="70%" alt="PIXBIT: open-source ESP32 handheld console"/></a>
+
+[![PIXBIT](https://github-readme-stats.vercel.app/api/pin/?username=Prateek-elec&repo=PIXBIT&theme=merko&hide_border=true&border_radius=8)](https://github.com/Prateek-elec/PIXBIT)
+[![RC plane](https://github-readme-stats.vercel.app/api/pin/?username=Prateek-elec&repo=rc-plane-speedybee-wing405&theme=merko&hide_border=true&border_radius=8)](https://github.com/Prateek-elec/rc-plane-speedybee-wing405)
+
 [![Flight controller PCB](https://github-readme-stats.vercel.app/api/pin/?username=Prateek-elec&repo=custom-flight-controller-pcb&theme=merko&hide_border=true&border_radius=8)](https://github.com/Prateek-elec/custom-flight-controller-pcb)
 [![ESP32 drone controller](https://github-readme-stats.vercel.app/api/pin/?username=Prateek-elec&repo=esp32-drone-flight-controller&theme=merko&hide_border=true&border_radius=8)](https://github.com/Prateek-elec/esp32-drone-flight-controller)
 
@@ -138,19 +143,24 @@ PAYLOAD_MANIFEST
 ```
 BUILD_LOG
 
+[PIXBIT]     PIXBIT
+             Open-source ESP32 handheld game console for STEM learning
+             Display · D-pad · microSD · speaker · USB-C · battery
+             Status: Don't just play games. Build them.
+
 [FC-BOARD]   custom-flight-controller-pcb
-             STM32F405 · IMU · BMP388 · SPI Flash · USB-C · ESC routing
-             Power management · Reverse polarity protection · CAN bus
-             Status: Hardware-firmware co-design. Real-time flight control.
+             STM32F405 · ICM-42688-P · BMP388 · W25Q128 blackbox · MAX7456 OSD
+             Dual TPS54302 BECs · Reverse polarity protection · USB-C
+             Status: Layout complete. Bring-up next.
 
 [ESP-DRONE]  esp32-drone-flight-controller
-             4-layer KiCad · ESP32 · MPU6050 IMU · Motor drivers
-             LiPo charging · UART/I²C/SPI · 3D mechanical clearance verified
-             Status: Wireless telemetry confirmed. Props attached. Brave.
+             PCB-as-frame micro quad · ESP32 · MPU6050 · 4× brushed motor drivers
+             TP4056 LiPo charging · CH340C USB-C · antenna keep-out
+             Status: Props attached. Brave.
 
 [ELRS-RX]    elrs-receiver-pcb
-             ESP8285 + SX1280 · RF matching network · Compact layout
-             3.3V regulation · antenna routing · sub-GHz link
+             ESP8285 + SX1280 · U.FL antenna · Compact double-sided layout
+             3.3V regulation · 2.4 GHz ExpressLRS link
              Status: Signal received. Most of the time.
 
 [PCB-TOOLS]  pcbly-toolkit
