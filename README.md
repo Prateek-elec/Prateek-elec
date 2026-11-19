@@ -54,6 +54,7 @@ I've worked on UAV hardware at **IIT Roorkee** and **Karman Drones**, collaborat
 
 | Project | Description |
 |---|---|
+| [MATLAB ECE Simulations](https://github.com/Prateek-elec/matlab-ece-simulations) | 7-level diode physics course and a 3D indoor RF ray tracer, in MATLAB |
 | [ESP32-C3 Battery Dev Board](https://github.com/Prateek-elec/esp-devboard-prateek) | USB-C, LiPo charging, 3.3 V rail, GPIO breakout. Gerbers included |
 | [Line & Maze Solver PCB](https://github.com/Prateek-elec/line-maze-solver-bot-pcb) | Arduino Nano + TB6612FNG carrier for competition robots |
 | [Gesture-Controlled Robot](https://github.com/Prateek-elec/hand-gesture-controlled-robot-espnow) | MPU6050 hand unit driving a robot over ESP-NOW |
@@ -92,7 +93,7 @@ I've worked on UAV hardware at **IIT Roorkee** and **Karman Drones**, collaborat
 | Area | Tools and technologies |
 |---|---|
 | **PCB design** | ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white) ![Altium](https://img.shields.io/badge/Altium-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white) ![EasyEDA](https://img.shields.io/badge/EasyEDA-1677FF?style=flat-square) · 2- and 4-layer, impedance control, power integrity, DFM |
-| **Embedded** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Embedded** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square) |
 | **UAV systems** | ![ArduPilot](https://img.shields.io/badge/ArduPilot-0B8ED8?style=flat-square&logo=ardupilot&logoColor=white) ![Betaflight](https://img.shields.io/badge/Betaflight-F2A900?style=flat-square) ![MAVLink](https://img.shields.io/badge/MAVLink-0F172A?style=flat-square) · flight controllers, ESCs, GNSS / RTK, telemetry and RF links |
 | **Interfaces** | UART · SPI · I²C · CAN / DroneCAN · USB · RS-232 |
 | **Power** | Buck · boost · LDO · LiPo charging · multi-rail BECs |
