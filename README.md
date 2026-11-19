@@ -46,6 +46,14 @@ I've worked on UAV hardware at **IIT Roorkee** and **Karman Drones**, collaborat
 <td><b><a href="https://github.com/Prateek-elec/rc-plane-speedybee-wing405">ArduPilot Plane</a></b> · Scratch-built, with real params and flight log</td>
 <td><b><a href="https://github.com/Prateek-elec/pcbly-toolkit">PCBly</a></b> · Desktop PCB calculator (Python)</td>
 </tr>
+<tr>
+<td width="50%"><a href="https://github.com/Prateek-elec/ardupilot-flight-test-lab"><img src="https://raw.githubusercontent.com/Prateek-elec/ardupilot-flight-test-lab/main/docs/banner.png" alt="ArduPilot Flight Test Lab"/></a></td>
+<td width="50%"><a href="https://github.com/Prateek-elec/matlab-ece-simulations"><img src="https://raw.githubusercontent.com/Prateek-elec/matlab-ece-simulations/main/docs/banner.png" alt="MATLAB ECE Simulations"/></a></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Prateek-elec/ardupilot-flight-test-lab">ArduPilot Flight Test Lab</a></b> · Flight log in, tuned drone out (MATLAB)</td>
+<td><b><a href="https://github.com/Prateek-elec/matlab-ece-simulations">MATLAB ECE Simulations</a></b> · Diode physics course and 3D RF ray tracer</td>
+</tr>
 </table>
 
 <details>
@@ -54,7 +62,6 @@ I've worked on UAV hardware at **IIT Roorkee** and **Karman Drones**, collaborat
 
 | Project | Description |
 |---|---|
-| [MATLAB ECE Simulations](https://github.com/Prateek-elec/matlab-ece-simulations) | 7-level diode physics course and a 3D indoor RF ray tracer, in MATLAB |
 | [ESP32-C3 Battery Dev Board](https://github.com/Prateek-elec/esp-devboard-prateek) | USB-C, LiPo charging, 3.3 V rail, GPIO breakout. Gerbers included |
 | [Line & Maze Solver PCB](https://github.com/Prateek-elec/line-maze-solver-bot-pcb) | Arduino Nano + TB6612FNG carrier for competition robots |
 | [Gesture-Controlled Robot](https://github.com/Prateek-elec/hand-gesture-controlled-robot-espnow) | MPU6050 hand unit driving a robot over ESP-NOW |
